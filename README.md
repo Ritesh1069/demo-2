@@ -1,2 +1,2 @@
 # demo-2
-author: ritesh 
+author: ritesh maurya
